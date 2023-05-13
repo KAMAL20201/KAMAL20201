@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KAMAL20201
-- 👀 I’m interested in coding cpp  and Web Development 
-- 🌱 I’m currently learning Web Development and DSA
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m KAMAL
+- 👀 I’m interested in Java and Front End Development and DSA
 - 📫 How to reach me? Mail me on ks708570@gmail.com
 
 <!---
